@@ -107,5 +107,5 @@ I followed the guided tutorial by [Amlan Mohanty](https://github.com/amlanmohant
 ## Contact
 
 Neha Jaydip Patil | Electrical Engineering graduate | Python and data analytics
-- GitHub: *add your link*
-- LinkedIn: *add your link*
+- GitHub:    - GitHub: https://github.com/nehapatil1043-design
+- LinkedIn:  LinkedIn: https://www.linkedin.com/in/your-name
